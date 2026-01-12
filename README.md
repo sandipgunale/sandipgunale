@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Sandip Gunale  
-### Java Full-Stack Developer | Spring Boot • React • Angular | Open-Source Learner 🚀
+### Java Full-Stack Developer | Spring Boot • React | Open-Source Learner 🚀
 
 I’m a passionate **Computer Science undergraduate (B.Tech, 2023–2027)** focused on building **scalable, real-world full-stack applications**.  
 I enjoy turning complex problems into clean, efficient solutions and continuously improving my skills through projects, DSA practice, and open-source learning.
@@ -23,7 +23,7 @@ I enjoy turning complex problems into clean, efficient solutions and continuousl
 `Spring Boot` `Spring MVC` `Spring Security` `JWT` `Hibernate` `JPA`
 
 **Frontend**  
-`React.js` `Angular` `HTML` `CSS` `Tailwind CSS`
+`React.js`  `HTML` `CSS` `Tailwind CSS`
 
 **Databases**  
 `MySQL` `PostgreSQL`
