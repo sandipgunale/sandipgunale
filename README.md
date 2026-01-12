@@ -123,12 +123,17 @@ and refining my **engineering & system-design mindset** every day.
 
 ## 🤝 Connect With Me
 
-<p>
-  <a href="https://linkedin.com/in/sandip-gunale">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=flat&logo=linkedin" />
+<p align="center">
+  <a href="https://linkedin.com/in/sandip-gunale" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Sandip%20Gunale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:sandipgunale257@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-0EA5E9?style=flat&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/sandipgunale">
+    <img src="https://img.shields.io/badge/GitHub-Follow-1F2937?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
